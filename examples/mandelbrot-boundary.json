@@ -1,0 +1,21 @@
+{
+  "type": "bookmark",
+  "schemaVersion": 7,
+  "name": "Mandelbrot Boundary",
+  "centerX": -0.75,
+  "centerY": 0.1,
+  "centerLowX": 0,
+  "centerLowY": 0,
+  "scalePixelsPerUnit": 350,
+  "baselineScale": 350,
+  "iterations": 256,
+  "fractalMode": 0,
+  "juliaCX": -0.8,
+  "juliaCY": 0.156,
+  "palette": 0,
+  "contrast": 1,
+  "autoIterations": false,
+  "threeD": {
+    "enabled": false
+  }
+}

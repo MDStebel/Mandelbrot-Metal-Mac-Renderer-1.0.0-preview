@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "channel": "developer-preview",
+  "appWorkflowVersion": "3.1",
+  "platform": "macOS",
+  "minimumMacOS": "15.0",
+  "architecture": "arm64",
+  "sourceRevision": "c07c3fe1940a9321155ceb2a4be35eceb90e2f1d",
+  "codeSignature": "Developer ID Application",
+  "hardenedRuntime": true,
+  "secureSigningTimestamp": true,
+  "notarized": false,
+  "binarySHA256": "2161c78d95cb5cea2ba3748ca65928ffae5162bd3b3864a671f4df3f6d549885"
+}
