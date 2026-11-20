@@ -1,0 +1,13 @@
+{
+  "MacRenderer/Sources/FractalRenderCore/MetalFrameRenderer.swift": "901c52149087862c27c871f85d81f4572e8d9202e2c6d846e83b7d3264839cad",
+  "MacRenderer/Sources/FractalRenderCore/PlatformTypes.swift": "7b0fa0d88c6a81fead201d54dbe99e5df344f271934050a9afc12ce1776ddf7a",
+  "MacRenderer/Sources/FractalRenderCore/RenderBookmark.swift": "31f2b65e092165c688113b6852b9aceab95fee27b2e946444a679d8e9e0b95d0",
+  "MandelbrotMetal/DoubleDoublePrecisionMath.swift": "a6f4b9a1f63a16e2a6a74f16737c263f6d6c2cc206a8149bab49a0cff557cee0",
+  "MandelbrotMetal/Mandelbrot.metal": "5d018b88162c67a66dceb9db54539f46c6bf4d1653f471cdbbfbd9879d2679ea",
+  "MandelbrotMetal/MandelbrotUniforms.swift": "6235896c0c22fad4208199e0121d8a56c2bbad810d88f93df4377edc4a1aae56",
+  "MandelbrotMetal/Palettes/PaletteCatalog+UltraWide_1.swift": "0e7b8c815c2e9a942c6f5ed060df19a967324edfa84f514e7a016864d6efc5a1",
+  "MandelbrotMetal/Palettes/PaletteCatalog+UltraWide_2.swift": "580894280e0fecb1f03db9ad135df75a2ff34b0face175c2263a0e2e8bfe4589",
+  "MandelbrotMetal/Palettes/PaletteCatalog+UltraWide_3.swift": "38e7c380478d2d1cc61056869f095e0322e38219152f5a9d79eb043d57b241f9",
+  "MandelbrotMetal/Palettes/PaletteCatalog+UltraWide_4.swift": "9c9863b34105e7439fcd65a2c0063bbece2c03b2f91e056e7ff6544179366ecd",
+  "MandelbrotMetal/Palettes/PaletteOption.swift": "9463d53a6c8a670d9d1164248b328ef79c4b5cf82089eb039dc6dc30ef6b11ad"
+}

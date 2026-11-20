@@ -1,5 +1,7 @@
 # Mandelbrot Metal Mac Renderer 1.0.0 Preview
 
+[Download the complete Mac renderer preview ZIP](https://github.com/MDStebel/Mandelbrot-Metal-Mac-Renderer-1.0.0-preview/releases/tag/v1.0.0-preview).
+
 Render a Mandelbrot Metal 3.1 flight project or bookmark as a silent H.264 MP4. The renderer runs locally in Terminal and saves progress so you can resume long jobs.
 
 **Requirements:** Apple silicon (arm64), macOS 15 or later. Extract the ZIP and keep `mm-render` and `MandelbrotMetalRenderer_FractalRenderCore.bundle` side by side.
